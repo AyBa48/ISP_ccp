@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1578986763 source:c:\cpp_program\64962_task05_mymod\main.cpp
+	<iostream>
+	"fraction.h"
+
+1578987289 c:\cpp_program\64962_task05_mymod\fraction.h
+	<iostream>
+
+1578992948 source:c:\cpp_program\64962_task05_mymod\fraction.cpp
+	<string>
+	"fraction.h"
+

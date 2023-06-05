@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1574679143 source:c:\cpp_program\012_cpp_class\012_cpp_class\func.cpp
+	"SchoolYard.h"
+
+1576160940 c:\cpp_program\012_cpp_class\012_cpp_class\schoolyard.h
+	<iostream>
+	<string>
+
+1576160754 source:c:\cpp_program\012_cpp_class\012_cpp_class\main.cpp
+	<iostream>
+	"SchoolYard.h"
+	"func.h"
+
+1574679123 c:\cpp_program\012_cpp_class\012_cpp_class\func.h
+

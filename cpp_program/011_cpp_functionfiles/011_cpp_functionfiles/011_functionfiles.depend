@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1574673989 source:c:\cpp_program\011_cpp_functionfiles\011_cpp_functionfiles\func.cpp
+	<iostream>
+	<vector>
+	"func.h"
+
+1574673080 c:\cpp_program\011_cpp_functionfiles\011_cpp_functionfiles\func.h
+
+1574673819 source:c:\cpp_program\011_cpp_functionfiles\011_cpp_functionfiles\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"func.h"
+
